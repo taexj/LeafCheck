@@ -1,1 +1,1 @@
-# Potato-Leaf-Disease-Detector
+# LeafCheck
