@@ -23,3 +23,7 @@ Ensure you have Python 3.6+ installed on your machine. Clone this repository, na
 git clone https://github.com/taexj/LeafCheck
 cd LeafCheck
 pip install -r requirements.txt
+```
+
+## Future Work
+Currently, this app supports only English language. I am working to integrate the Urdu language to cater to the needs of local farmers in Pakistan. 
